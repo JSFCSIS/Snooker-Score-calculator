@@ -5,6 +5,8 @@ public class Score{
  
 	public static void main(String[] args){
 		
+	// just testing changes in Git
+		
 	  JFrame frame = new JFrame("Snooker Score");
 	  frame.setResizable(false);
 	  frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
